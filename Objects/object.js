@@ -1,4 +1,4 @@
-//=> Object Basics exercise:https://www.rithmschool.com/courses/javascript/javascript-objects-object-basics
+//=> Object Basics exercise:-https://www.rithmschool.com/courses/javascript/javascript-objects-object-basics
 
 // Create an object that has your firstName, lastName, and occupation as keys.
 // Access each value from your object using both dot notation and bracket notation.
@@ -23,7 +23,7 @@ obj["occupation"];
 obj.hobby="Reading";
 delete obj.occupation;
 
-// => Main exercise:https://www.rithmschool.com/courses/javascript/javascript-objects-exercises
+// => Main exercise:-https://www.rithmschool.com/courses/javascript/javascript-objects-exercises
 let programming = {
     languages: ["JavaScript", "Python", "Ruby"],
     isChallenging: true,
